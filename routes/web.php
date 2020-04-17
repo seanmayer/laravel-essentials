@@ -24,3 +24,16 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/test',function() {return "Goodbye";});
 
 Route::get('/rooms', 'ShowRoomsController');
+
+
+
+Route::resource('bookings', 'BookingController');
+/*
+Route::get('/bookings', 'BookingContoller@index');
+Route::get('/bookings/create', 'BookingController@create');
+Route::post('/bookings', 'BookingController@store');
+Route::get('/bookings/{booking}', 'BookingController@show');
+Route::get('/bookings/{booking}/edit', 'BookingController@edit');
+Route::put('/bookings/{booking}', 'BookingController@update');
+Route::delete('/bookings/{booking}', 'BookingController@destroy');
+*/
