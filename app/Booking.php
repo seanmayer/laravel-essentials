@@ -15,5 +15,16 @@ class Booking extends Model
     	'is_reservation',
     	'is_paid',
     	'notes',
-    ];
+	];
+	
+	public function room()
+	{
+		return $this->belongsTo('App\Room');
+	}
+
+    public function users()
+    {
+		return $this->belongsToMany('App\User', 'bookings_users', 'booking_id', 
+		'user_id')->withTimestamps();
+    }
 }
