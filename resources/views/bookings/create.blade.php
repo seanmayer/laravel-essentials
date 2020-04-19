@@ -2,8 +2,7 @@
  
 @section('content')
 <div class="col">
-<form action="{{ route('bookings.store') }}" method="POST">
-    
+    <form action="{{ route('bookings.store') }}" method="POST">
     @include('bookings.fields')
 
     <div class="form-group row">
