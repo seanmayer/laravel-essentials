@@ -28,6 +28,8 @@ Route::get('/rooms', 'ShowRoomsController');
 Route::get('/rooms/{roomType?}','ShowRoomsController');
 
 Route::resource('bookings', 'BookingController');
+
+Route::resource('room_types', 'RoomTypeController');
 /*
 Route::get('/bookings', 'BookingContoller@index');
 Route::get('/bookings/create', 'BookingController@create');
