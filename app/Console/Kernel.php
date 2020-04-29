@@ -24,7 +24,14 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        // $schedule->command('inspire')->hourly();
+        $schedule->command('inspire')
+                 ->hourly();
+        $schedule->command('env')
+                 ->everyMinute()
+                 ->environments(['local'])
+                 ->runInBackground()
+                 ->appendOutputTo('/home/vagrant/Projects_Laravel/laravel-essentials/storage/logs/env.log')
+                 ->after(function() {return true; });
     }
 
     /**

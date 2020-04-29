@@ -88,6 +88,7 @@ class BookingController extends Controller
      */
     public function update(Request $request, Booking $booking)
     {
+        (\App\Jobs\ProcessBookingJob::dispatch($booking));
         $validatedData = $request->validate([
             'start' => 'required|date',
             'end' => 'required|date',
@@ -99,7 +100,11 @@ class BookingController extends Controller
         ]);
         $booking->fill($validatedData);
         $booking->save();
-        $booking->users()->sync([$validatedData]);
+        DB::table('bookings_users')
+        ->where('booking_id', $booking->id)
+        ->update([
+            'user_id' => $validatedData['user_id'],
+        ]);
         return redirect()->action('BookingController@index');
     }
 
