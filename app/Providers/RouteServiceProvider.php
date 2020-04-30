@@ -59,6 +59,7 @@ class RouteServiceProvider extends ServiceProvider
     protected function mapWebRoutes()
     {
         Route::middleware('web')
+        ->middleware('App\Http\Middleware\CheckQueryParam')
             ->namespace($this->namespace)
             ->group(base_path('routes/web.php'));
     }

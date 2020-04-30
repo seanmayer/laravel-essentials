@@ -14,9 +14,10 @@ class ShowRoomsController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function __invoke(Request $request, $roomType = null)
+    public function __invoke(Request $request, \App\RoomType $roomType = null)
     {
-        $rooms = Room::byType($roomType)->get();
+        dd($roomType);
+        $rooms = Room::byType($roomType->id)->get();
         return view('rooms.index', ['rooms' => $rooms]);
     }
 }
