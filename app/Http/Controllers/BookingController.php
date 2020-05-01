@@ -8,6 +8,10 @@ use Illuminate\Support\Facades\DB;
 
 class BookingController extends Controller
 {
+    public function _construct()
+    {
+        $this->middleware('auth'); 
+    }
     /**
      * Display a listing of the resource.
      *
