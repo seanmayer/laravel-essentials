@@ -1790,3 +1790,99 @@
 [2020-04-29 17:16:17][902] Processed:  App\Jobs\ProcessBookingJob
 [2020-04-29 17:16:19][903] Processed:  App\Jobs\ProcessBookingJob
 [2020-04-29 17:16:19][904] Processed:  App\Jobs\ProcessBookingJob
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Warning:  require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Warning: require(/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php): failed to open stream: No such file or directory in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+PHP Fatal error:  require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
+
+Fatal error: require(): Failed opening required '/home/vagrant/Projects_Laravel/laravel-essentials/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/vagrant/Projects_Laravel/laravel-essentials/artisan on line 18
