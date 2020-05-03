@@ -30,7 +30,7 @@ Route::get('/test',function() {
     var_dump($oldHash);
     var_dump(Hash::needsRehash($oldHash));
     var_dump(Hash::make('black_saber'));
-})->middleware('verified');
+});
 
 Route::get('/rooms', 'ShowRoomsController');
 
